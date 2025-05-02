@@ -34,6 +34,7 @@ class LoginController:
 
     # الدالة الجديدة المضافة
     def generate_token(self, email: str) -> str:
+        
         expiration = datetime.utcnow() + timedelta(hours=1)
         payload = {
             "email": email,
