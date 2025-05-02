@@ -1,3 +1,5 @@
 2025-02-19 02:55:43,274 - New account created by: jghf@hffh.com
 2025-02-19 02:56:33,070 - New account created by: omar1@gmail.com
 2025-02-19 02:58:27,553 - Login successful by: omar1@gmail.com
+2025-05-02 22:29:46,384 - New account created by: omar@gmail.com
+2025-05-02 22:30:12,872 - Login successful by: omar@gmail.com | Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Im9tYXJAZ21haWwuY29tIiwiZXhwIjoxNzQ2MjE3ODEyfQ.mjpy-WsnPzBrqaK_HOVjbK4DzsR2zr5ImNoH-bDx1ww
